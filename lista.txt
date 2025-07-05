@@ -384,6 +384,7 @@ Estômago
 estoque
 estrada
 Estrada de ferro
+Estrangeiro
 Estrela
 Estude no exterior
 EUR
@@ -818,6 +819,7 @@ rinoceronte
 rio
 Rio Amarelo
 rir
+risoto
 Rival amoroso
 Rolinho primavera
 Rolo pequeno
