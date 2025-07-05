@@ -733,6 +733,7 @@ peking
 pele de carneiro
 Pelos do nariz
 Pena
+Penteadeira
 peônia
 pepino
 Pequim
@@ -785,6 +786,7 @@ Provas
 Provérbio
 Pulo alto
 Pulseira
+quadrado
 Quadrilátero
 Quadro Branco
 quadro-negro
