@@ -3,6 +3,7 @@ abacaxi
 abóbora
 Abraçar
 Academia
+acampamento
 Acampamento
 ácido sulfúrico
 Açucar
@@ -85,6 +86,7 @@ banheira
 Bar
 Barata
 barba
+barco de pesca
 Barco de pesca
 barriga de porco
 basquetebol
@@ -341,6 +343,7 @@ drama local
 Duende
 Durian
 durião
+Elefante
 eletricidade estática
 elétrico
 Eloquente
@@ -393,6 +396,7 @@ Exame físico
 exercício
 Ex namorada
 Ex-namorado
+extasiado
 extintor de incêndio
 Extraterrestre
 faca
@@ -567,6 +571,7 @@ Luzes de neon
 luz verde
 Maçã
 macacão
+Macaco
 Macarons
 machado
 mãe adotiva
@@ -960,6 +965,7 @@ vender
 ventilador elétrico
 ventoinha
 Vênus
+Verdade
 vespa
 vestido de casamento
 via Láctea
