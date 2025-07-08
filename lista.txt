@@ -180,6 +180,7 @@ Capricórnio
 cara bonito
 Cara mau
 caranguejo eremita
+Careca
 cargueiro
 Carne de porco
 carne de porco assada
@@ -438,6 +439,7 @@ Fronha de travesseiro
 fugir
 Fúria
 Futebol
+futuros
 Galho
 gamão
 Gangster
@@ -568,6 +570,7 @@ lula
 Luvas
 Luz elétrica
 Luzes de neon
+Luz solar
 luz verde
 Maçã
 macacão
@@ -584,6 +587,7 @@ mamão
 Mamão
 Mandril
 Manga
+Manga curta
 mãos dadas
 Mapo Tofu
 máquina de costura
@@ -616,6 +620,7 @@ Mentira
 mercado ao entardecer
 mercado molhado
 mercado noturno
+Mesa
 Mesa de jantar
 mesa de trabalho
 mestre
@@ -731,6 +736,7 @@ pavão
 Pedaço de cabelo
 Pé de galinha
 pedestre
+Pedra
 pedras
 pega
 Peixes
