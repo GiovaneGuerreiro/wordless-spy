@@ -70,6 +70,7 @@ Autocaravana
 autocrático
 autoestrada
 auto estudo
+Avião
 Babá
 badminton
 Bai Yun
@@ -179,6 +180,7 @@ capa de chuva
 Capricórnio
 cara bonito
 Cara mau
+caramujos
 caranguejo eremita
 Careca
 cargueiro
@@ -302,6 +304,7 @@ Cubo de açúcar
 cubos de gelo
 Culinária
 Cunhada
+cupido
 curandeira
 dama de honra
 dança moderna
@@ -323,6 +326,7 @@ Deus da riqueza
 diabo
 Dia da Mentira
 diamante
+Diamante
 diário
 dica
 Dinastia Ming
@@ -332,6 +336,7 @@ Dinheiro
 Dinossauro
 Diretor
 disfarçado
+Distraído
 divórcio
 doença da princesa
 Dorayaki
@@ -350,6 +355,7 @@ eletricidade estática
 elétrico
 Eloquente
 emocional
+Empatar
 Empregada
 empregada doméstica
 empréstimo
@@ -515,6 +521,7 @@ Jesus
 Joelheiras
 Jogo
 jogo de damas
+jogo de tabuleiro
 jogos de tabuleiro
 joia
 jóia de ouro
@@ -522,6 +529,7 @@ Jolin Tsai
 jornada para o Oeste
 judas
 judo
+Julieta
 kelp
 labrador
 laço de cabelo
@@ -700,6 +708,7 @@ Onda de cachorro maluco
 Orgulhoso
 ornitorrinco
 orquídea
+orvalho
 ossos
 OVNI
 ovo frito
@@ -773,6 +782,7 @@ Pintura aquarela
 Pintura chinesa
 Pique gelo
 pirulito
+placa de cobre
 planeta
 platina
 plugue
@@ -852,6 +862,7 @@ salada
 Salgadinho
 Salmoura
 salsão
+salsicha
 Salsicha
 Salto alto
 salto em distância
@@ -905,6 +916,7 @@ Sundae de Morango
 Sun Wukong
 Supermercado
 surpresa absoluta
+Sushi
 suspensórios de pulso
 Taekwondo
 tahine
