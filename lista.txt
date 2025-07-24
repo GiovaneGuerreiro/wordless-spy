@@ -16,6 +16,7 @@ advogado
 AEROPORTO
 Ágata
 água
+Água
 água da torneira
 água do banheiro
 Água fervente
@@ -24,6 +25,7 @@ AEROPORTO
 Aiyu
 alarme
 alaúde
+Albert Einstein
 alho
 Alicate de ponta fina
 almofada
@@ -34,6 +36,7 @@ Amendoin
 americano
 amigo
 Amor irmã-irmão
+Ang Gu Kueh
 Angu Kueh
 anis estrelado
 Anitta
@@ -104,6 +107,7 @@ Berinjela
 Bicicleta
 bife
 bilhar
+Bill Gates
 Biscoitos Sanduíche
 Bloco de anotações
 Bloqueio de senha
@@ -160,6 +164,7 @@ caderno
 café
 Cair
 Caixa
+caixa de pagamento
 Caju
 Calça casual
 calças de pijama
@@ -175,6 +180,7 @@ Canção
 Câncer de estômago
 caneta aquarela
 canetas coloridas
+Cantalupo
 cão de pradaria
 capa de chuva
 Capricórnio
@@ -242,6 +248,7 @@ cheiro corporal
 cheongsam
 Chicote
 Chocolate Branco
+Cholocate preto
 Churrasquinho
 chuva
 cílios
@@ -258,6 +265,7 @@ cobertor
 Cobertor
 cobertor elétrico
 cobra
+Coca Cola
 cocô de pássaro
 Coentro
 Cogumelo
@@ -295,6 +303,7 @@ Corpo de bombeiros
 correndo
 cortina
 coruja
+corvo
 Cosmético
 creme para os olhos
 Crisântemo
@@ -407,17 +416,20 @@ Ex-namorado
 extasiado
 extintor de incêndio
 Extraterrestre
+Fã base
 faca
 Faca de cozinha
 Falar sem sentido
 Falência
 fantasia
+fantasma
 Farinha
 Farmacia
 Felicidade
 Fénix
 Férias de verão
 Ferrari
+Filho não-filial
 Filme
 Filme de ação
 Filme de suspense
@@ -426,6 +438,7 @@ física
 Física
 Fita dupla face
 Flammulina enoki
+flores de cerejeira
 fogão de indução
 fogão elétrico
 folha
@@ -503,6 +516,7 @@ idiota
 ignorância
 ilha
 inchado
+Inglês
 inimigo
 Insider
 iodo
@@ -538,6 +552,8 @@ Lagoa
 lamentável
 lâmpada de mesa
 Lâmpada elétrica
+lanterna
+lápis
 lar de idosos
 lata de lixo
 Lavagem Corporal
@@ -550,6 +566,7 @@ leite de mamão
 leite de morango
 Leite de vaca
 leite fresco
+lenço
 lençol
 Lenços umedecidos
 lenda
@@ -644,6 +661,7 @@ Minnie
 mistério
 Mito
 Mochila
+modelo
 Modelo
 Moletom
 molho de mostarda
@@ -675,6 +693,7 @@ Namorada
 Namorado
 Namorda
 narciso
+Nariz
 nave espacial
 néctar
 Neurótico
@@ -725,6 +744,7 @@ Pangolim
 Panquecas
 pão
 Paparazzi
+papel
 Papelaria
 papel de teste
 Paquera
@@ -767,6 +787,7 @@ Personalidade
 peru
 pesca de camarão
 Pés de porco
+Pêssego
 Pessoa negra
 Pessoas brancas
 Pho
@@ -805,6 +826,7 @@ princesa
 Princesa
 Príncipe
 Privacidade
+professor
 protetores de ouvido
 Provas
 Provérbio
@@ -826,6 +848,7 @@ razão
 refrigerante
 refrigerante verde
 Regata
+rei
 Relativo
 relíquias culturais
 Relógio
@@ -900,6 +923,7 @@ sopa de galinha
 sopa de macarrão
 sopa de peixe
 Sopa Gongwan
+Sorvete
 sorvete de chocolate
 Sprite
 Suco
@@ -914,6 +938,7 @@ Sujo
 Sukiyaki
 Sundae de Morango
 Sun Wukong
+Super homen
 Supermercado
 surpresa absoluta
 Sushi
@@ -932,6 +957,7 @@ Tartatura
 tela do celular
 Telefone Samsung
 Teletubbies
+televisão
 tenda
 tênis
 Tênis
@@ -952,6 +978,7 @@ Tofu de cem páginas
 Tokyo
 tomada
 tomate
+Toque piano para a vaca
 toranja
 Tornozeleira
 torrada de mirtilo
