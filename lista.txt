@@ -26,6 +26,7 @@ Aiyu
 alarme
 alaúde
 Albert Einstein
+Álcool
 alho
 Alicate de ponta fina
 almofada
@@ -46,10 +47,12 @@ anunciar
 anzol
 apaixonado
 apartamento
+Aquário
 Aquecendo roupas
 arame
 Arco e Flecha
 ar condicionado
+Área
 área montanhosa
 argila de papel
 arquiteto
@@ -64,11 +67,13 @@ asas de frango grelhado
 asas de pato
 assassino
 assistente
+assistir
 atendente
 Atirar
 ator
 Ator
 atordoante
+Atualizado
 Autocaravana
 autocrático
 autoestrada
@@ -79,6 +84,7 @@ badminton
 Bai Yun
 balanço
 Balde
+Balde de lixo de cozinha
 balé
 baleia
 Baleia
@@ -92,6 +98,7 @@ Barata
 barba
 barco de pesca
 Barco de pesca
+barraca
 barriga de porco
 basquetebol
 Bata na porta
@@ -106,6 +113,7 @@ Beringela
 Berinjela
 Bicicleta
 bife
+Bife de frango
 bilhar
 Bill Gates
 Biscoitos Sanduíche
@@ -117,17 +125,20 @@ Bobba
 Bob Esponja
 Bolacha
 bola de cristal
+bola de golfe
 Boliche
 bolinho
 Bolinho
 Bolinho de Arroz Real
 Bolinhos cozidos no vapor
 bolinhos de camarão
+bolo
 Bolo
 Bolo da lua
 bolo de arroz
 Bolo De Manga
 Bolo de sol
+bolos
 bolsa
 Bolsa de couro
 Bolsa de estudos
@@ -159,6 +170,7 @@ cachalote
 cachecol de seda
 cachorro-quente
 cachorro solteiro
+Cadeira
 cadeira dobrável
 caderno
 café
@@ -197,6 +209,7 @@ Carneiro
 Carne seca
 Carne seca de porco
 carpa
+Carrinho
 carro
 Carro de boi
 carro elétrico
@@ -256,6 +269,7 @@ cimento
 Cinco raios
 Cinderela
 Cisne
+Civil
 clara de ovo
 Clínica
 clube de dança quente
@@ -425,10 +439,12 @@ fantasia
 fantasma
 Farinha
 Farmacia
+fatias de porco
 Felicidade
 Fénix
 Férias de verão
 Ferrari
+Festival do Barco-Dragão
 Filho não-filial
 Filme
 Filme de ação
@@ -438,9 +454,12 @@ física
 Física
 Fita dupla face
 Flammulina enoki
+Flor de ameixa
 flores de cerejeira
+fluxo
 fogão de indução
 fogão elétrico
+Foguete
 folha
 folha de alumínio
 Folha de lótus
@@ -450,6 +469,7 @@ Forte Submarino
 Foto
 Fotos artísticas
 Fotos do casamento
+fotossíntese
 frango
 Frango
 frio
@@ -457,6 +477,7 @@ fritadeira de ar
 fritas
 Fronha de travesseiro
 fugir
+Furação
 Fúria
 Futebol
 futuros
@@ -469,21 +490,27 @@ Garota linda
 garrafa térmica
 Gastroenterite
 gato
+Gato branco
 Geladeira
 Geléia
 gelo seco
+gema
+gêmeos
 geografia
 gerente
+ginástica
 Giz
 Glaucoma
 globo ocular
 goiaba
+golden retriever
 Golfinho
 Goma de mascar
 Gomas
 Gordo
 Gostosa
 grande aventura
+gravador
 gravata borboleta
 Grilo
 Guarda-roupa
@@ -530,6 +557,7 @@ jardim
 Jardim Zoológico
 Jasmim
 jazz
+Jazz
 jeans
 Jesus
 Joelheiras
@@ -547,6 +575,7 @@ Julieta
 kelp
 labrador
 laço de cabelo
+ladrão
 lago
 Lagoa
 lamentável
@@ -558,6 +587,7 @@ lar de idosos
 lata de lixo
 Lavagem Corporal
 lava-louças
+legal
 Legumes escaldados
 leite
 leite de cabra
@@ -573,11 +603,13 @@ lenda
 Lente
 lesma
 leucemia
+libélula
 Libra
 Licor
 Líder
 liderado
 Li Kebai
+Limão
 limão melão de inverno
 limpador de cozinha
 Liquor
@@ -593,6 +625,7 @@ Louva a Deus
 lua
 Lua
 lula
+lutar
 Luvas
 Luz elétrica
 Luzes de neon
@@ -634,10 +667,12 @@ Massagem
 matéria-prima
 Medalha
 medalha de ouro
+médico
 meia
 meia calça
 Meia-idade
 Meias-liga
+melancia
 Melancia
 melhor da vida
 Mel Longan
@@ -646,6 +681,7 @@ Mentira
 mercado ao entardecer
 mercado molhado
 mercado noturno
+Mercúrio
 Mesa
 Mesa de jantar
 mesa de trabalho
@@ -684,6 +720,7 @@ Mozart
 mulher forte
 mural
 museu
+música clássica
 Música final
 músicas folk
 Músicas pop
@@ -709,6 +746,7 @@ nota
 Nota fiscal
 Notre Dame de Paris
 número da casa
+nuvens escuras
 obesidade
 obsceno
 O céu está desmoronando
@@ -724,14 +762,17 @@ Onda de cachorro maluco
 ônibus
 ônibus de turismo
 ópera
+orelhas de porco
 Orgulhoso
 ornitorrinco
 orquídea
 orvalho
 ossos
+ovelha
 OVNI
 ovo frito
 Ovos de avestruz
+ovos de chá
 Padrão nasal
 Padre taoísta
 padrinho
@@ -783,6 +824,7 @@ Pequim
 perder peso
 Perfume
 Pérola
+Personagem
 Personalidade
 peru
 pesca de camarão
@@ -791,7 +833,9 @@ Pêssego
 Pessoa negra
 Pessoas brancas
 Pho
+picles
 Pigmento
+Pijamas
 pimenta
 Pimenta
 Pimenta Chaotiana
@@ -803,6 +847,7 @@ Pintura aquarela
 Pintura chinesa
 Pique gelo
 pirulito
+piscina
 placa de cobre
 planeta
 platina
@@ -848,6 +893,7 @@ razão
 refrigerante
 refrigerante verde
 Regata
+regras escolares
 rei
 Relativo
 relíquias culturais
@@ -861,17 +907,20 @@ Repolho
 ressurreição
 Retiro
 Revista
+rim
 rinoceronte
 rio
 Rio Amarelo
 rir
 risoto
 Rival amoroso
+rodada rosa
 Rolinho primavera
 Rolo pequeno
 rosa
 rosas
 roteirista
+roupa de baixo
 roupa de banho
 roupa de neoprene
 roupão de banho
@@ -881,7 +930,9 @@ sabão para louça
 Saco de legumes
 saco de papel
 Saco térmico
+Sal
 salada
+salada de frutas
 Salgadinho
 Salmoura
 salsão
@@ -965,6 +1016,7 @@ tênis de corrida
 terminar
 Terra
 terremoto
+território
 Tesoura
 teto
 tia
@@ -987,6 +1039,7 @@ torta
 Torta de gema de ovo
 torta de morango
 torta de ovo
+touca de natação
 Trabalho
 traidor
 Travesseiro
@@ -1017,6 +1070,7 @@ Verdade
 vespa
 vestido de casamento
 via Láctea
+vice-líder do esquadrão
 Vidro
 Vila
 vinho
