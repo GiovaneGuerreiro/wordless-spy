@@ -8,6 +8,7 @@ Acampamento
 ácido sulfúrico
 Açucar
 açúcar branco
+açúcar cristal
 açúcar granulado
 açúcar mascavo
 Acupuntura
@@ -50,6 +51,7 @@ apartamento
 Aquário
 Aquecendo roupas
 arame
+aranha
 Arco e Flecha
 ar condicionado
 Área
@@ -120,6 +122,7 @@ Biscoitos Sanduíche
 Bloco de anotações
 Bloqueio de senha
 Bluetooth
+blusão
 Boate
 Bobba
 Bob Esponja
@@ -148,6 +151,7 @@ Bom homem
 boné
 Boneca
 Bonitinho
+bonito
 Bonito
 Borboleta
 Botão
@@ -228,6 +232,7 @@ cavalete
 cavalo
 cebola
 cebola verde
+cebola verde picada
 Cebolinha Chinesa
 celebridade
 celebridade da internet
@@ -268,6 +273,7 @@ cílios
 cimento
 Cinco raios
 Cinderela
+cintura de balde
 Cisne
 Civil
 clara de ovo
@@ -291,6 +297,7 @@ Colar
 colcha
 Colega de classe
 Colete
+colinas
 comandante de companhia
 Comilão
 Comovente
@@ -298,6 +305,7 @@ Completo
 composição
 comprar
 Compras
+comprimido
 computador
 Computador portátil
 Concerto
@@ -321,6 +329,7 @@ corvo
 Cosmético
 creme para os olhos
 Crisântemo
+crise
 Cristal
 croquete
 Cubo de açúcar
@@ -340,6 +349,7 @@ demência
 Demissão
 Dente de leite
 Dentes
+Depósito
 derramar lágrimas
 Descontraído e feliz
 Desligar
@@ -437,6 +447,7 @@ Falar sem sentido
 Falência
 fantasia
 fantasma
+Fantasmas prendem pessoas
 Farinha
 Farmacia
 fatias de porco
@@ -445,6 +456,7 @@ Fénix
 Férias de verão
 Ferrari
 Festival do Barco-Dragão
+ficaram noivos
 Filho não-filial
 Filme
 Filme de ação
@@ -503,6 +515,7 @@ Giz
 Glaucoma
 globo ocular
 goiaba
+Goiaba seca
 golden retriever
 Golfinho
 Goma de mascar
@@ -535,6 +548,7 @@ Hollywood
 homem gordo
 Homem macho
 Hospital
+Hou Yi
 Huazhiwan
 Humburger
 iate
@@ -611,6 +625,7 @@ liderado
 Li Kebai
 Limão
 limão melão de inverno
+limonada de mel
 limpador de cozinha
 Liquor
 lírio
@@ -658,6 +673,7 @@ marciano
 maricas
 Marido
 Marshmallow
+Marte
 martelo
 máscara de cabelo
 Máscara facial
@@ -682,6 +698,7 @@ mercado ao entardecer
 mercado molhado
 mercado noturno
 Mercúrio
+mergulho com snorkel
 Mesa
 Mesa de jantar
 mesa de trabalho
@@ -711,6 +728,7 @@ monitor
 Monstro
 monstro do lago Ness
 Montanha
+morsa
 Mosquiteiro
 mostarda
 mostarda amarela
@@ -770,6 +788,7 @@ orvalho
 ossos
 ovelha
 OVNI
+ovo em conserva
 ovo frito
 Ovos de avestruz
 ovos de chá
@@ -780,6 +799,7 @@ pães de carne
 Pães fritos
 palito de dente
 palito de fósforo
+Palma
 Panela quente
 Pangolim
 Panquecas
@@ -817,9 +837,11 @@ peking
 pele de carneiro
 Pelos do nariz
 Pena
+Pensamento
 Penteadeira
 peônia
 pepino
+Pepsi
 Pequim
 perder peso
 Perfume
@@ -854,8 +876,10 @@ platina
 plugue
 poeta
 policial
+poluição atmosférica
 pomba branca
 ponto de ônibus
+pó pressionado
 Popularidade
 porco
 poros
@@ -875,6 +899,7 @@ professor
 protetores de ouvido
 Provas
 Provérbio
+pulga
 Pulo alto
 Pulseira
 quadrado
@@ -897,6 +922,7 @@ regras escolares
 rei
 Relativo
 relíquias culturais
+relógio
 Relógio
 relogio digital
 Relógios de quartzo
@@ -940,6 +966,7 @@ salsicha
 Salsicha
 Salto alto
 salto em distância
+Sandálias
 sangramento nasal
 sapato
 sapatos de couro
@@ -1001,6 +1028,7 @@ Talento
 tangerina
 tanque
 tanque de água
+Tarô
 Taro e Sagô
 Tartaruga
 Tartaruga Marinha
@@ -1044,6 +1072,7 @@ Trabalho
 traidor
 Travesseiro
 travessura
+Trem
 três paus
 trilho de alta velocidade
 Tristeza
@@ -1071,6 +1100,7 @@ vespa
 vestido de casamento
 via Láctea
 vice-líder do esquadrão
+Viciado em trabalho
 Vidro
 Vila
 vinho
@@ -1086,6 +1116,7 @@ Vomitar
 Website
 xadrez
 Xícara
+xícara de café
 Yahoo
 Yangtsé
 Yuelao
