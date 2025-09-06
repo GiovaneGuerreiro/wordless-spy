@@ -61,9 +61,11 @@ arquiteto
 arroz cozido
 Arroz de óleo
 arroz de pato
+Arte
 artista
 árvore de maçã
 árvores
+ASA delta
 Asas de frango
 asas de frango grelhado
 asas de pato
@@ -167,6 +169,7 @@ Bucha
 Buda
 Buffett
 Cabeça de pato Dongshan
+cabelo curto
 Cabelo descolorido
 cabos cristalizados
 Cabra da montanha
@@ -186,6 +189,7 @@ Calça casual
 calças de pijama
 Calendário mensal
 Caligrafia
+Camarão
 Camarões fritos
 camelo
 Câmera
@@ -260,6 +264,7 @@ chapéu de balde
 chá preto
 Charme
 chave de carro
+Chave de fenda
 chave inglesa
 chefe
 cheiro corporal
@@ -293,7 +298,9 @@ Cola
 Cola branca
 cola de batom
 Cola de espuma
+colapso
 Colar
+colar de diamantes
 colcha
 Colega de classe
 Colete
@@ -331,6 +338,7 @@ creme para os olhos
 Crisântemo
 crise
 Cristal
+Crocodilo
 croquete
 Cubo de açúcar
 cubos de gelo
@@ -361,6 +369,7 @@ Dia da Mentira
 diamante
 Diamante
 diário
+Diarréia
 dica
 Dinastia Ming
 Dinastia Qing
@@ -383,6 +392,7 @@ drama local
 Duende
 Durian
 durião
+elástico
 Elefante
 eletricidade estática
 elétrico
@@ -398,6 +408,7 @@ Encontro
 Enfermeira
 Engraçado
 enlatado
+Enterrada
 entrega expressa
 equipe de voleibol
 esboço
@@ -414,6 +425,7 @@ esfregar
 esgueirando-se
 espaguete
 Especialista
+espera
 Esperto
 espião
 espinafre
@@ -448,6 +460,7 @@ Falência
 fantasia
 fantasma
 Fantasmas prendem pessoas
+fantoche
 Farinha
 Farmacia
 fatias de porco
@@ -500,6 +513,7 @@ Ganoderma lucidum
 Garota
 Garota linda
 garrafa térmica
+gás lacrimogêneo
 Gastroenterite
 gato
 Gato branco
@@ -595,6 +609,7 @@ Lagoa
 lamentável
 lâmpada de mesa
 Lâmpada elétrica
+Lancha
 lanterna
 lápis
 lar de idosos
@@ -615,6 +630,7 @@ lençol
 Lenços umedecidos
 lenda
 Lente
+Leopardo
 lesma
 leucemia
 libélula
@@ -952,6 +968,7 @@ roupa de neoprene
 roupão de banho
 roupas
 sabão
+Sabão
 sabão para louça
 Saco de legumes
 saco de papel
@@ -1055,12 +1072,14 @@ tímido
 tirar sangue
 toalha de banho
 Tofu de cem páginas
+Tofu fedido
 Tokyo
 tomada
 tomate
 Toque piano para a vaca
 toranja
 Tornozeleira
+Torrada branca
 torrada de mirtilo
 Torre da Água
 torta
