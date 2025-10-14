@@ -13,6 +13,7 @@ açúcar granulado
 açúcar mascavo
 Acupuntura
 Adivinhação da sorte
+ADN
 advogado
 AEROPORTO
 Ágata
@@ -40,6 +41,7 @@ amigo
 Amor irmã-irmão
 Ang Gu Kueh
 Angu Kueh
+animal
 anis estrelado
 Anitta
 Ano Novo
@@ -84,6 +86,7 @@ autoestrada
 auto estudo
 Avião
 Babá
+Bacia
 badminton
 Bai Yun
 balanço
@@ -128,6 +131,7 @@ blusão
 Boate
 Bobba
 Bob Esponja
+boca
 Bolacha
 bola de cristal
 bola de golfe
@@ -186,6 +190,7 @@ Caixa
 caixa de pagamento
 Caju
 Calça casual
+calçado desportivo
 calças de pijama
 Calendário mensal
 Caligrafia
@@ -220,6 +225,7 @@ carpa
 Carrinho
 carro
 Carro de boi
+carro de controle remoto
 carro elétrico
 cartão de saúde
 cartão Verde
@@ -250,6 +256,7 @@ certidão de óbito
 Certificado de Comenda
 cesariana
 Céu azul
+céu estrelado
 Chá
 Chá com leite
 Chã com leite
@@ -262,6 +269,7 @@ Chá oolong
 Chapéu
 chapéu de balde
 chá preto
+chã preto
 Charme
 chave de carro
 Chave de fenda
@@ -385,6 +393,7 @@ Dorayaki
 Dor de estômago
 Douhua
 Doutor
+Doutorando
 drama
 Drama coreano
 Drama japonês
@@ -410,6 +419,7 @@ Engraçado
 enlatado
 Enterrada
 entrega expressa
+entretenimento
 equipe de voleibol
 esboço
 Escada rolante
@@ -432,6 +442,7 @@ espinafre
 esponja
 Esposa
 Esqueleto
+esquilo
 Esquilo voador
 estacionamento
 estante
@@ -462,6 +473,7 @@ fantasma
 Fantasmas prendem pessoas
 fantoche
 Farinha
+farinha de arroz
 Farmacia
 fatias de porco
 Felicidade
@@ -512,15 +524,19 @@ Gangster
 Ganoderma lucidum
 Garota
 Garota linda
+Garota tecelã
+garoupa
 garrafa térmica
 gás lacrimogêneo
 Gastroenterite
 gato
 Gato branco
+gato civeta
 Geladeira
 Geléia
 gelo seco
 gema
+Gema
 gêmeos
 geografia
 gerente
@@ -571,6 +587,7 @@ idiota
 ignorância
 ilha
 inchado
+Informante
 Inglês
 inimigo
 Insider
@@ -610,6 +627,7 @@ lamentável
 lâmpada de mesa
 Lâmpada elétrica
 Lancha
+lanche noturno
 lanterna
 lápis
 lar de idosos
@@ -649,13 +667,17 @@ Liu Bang
 Liu Bei
 Liuli
 Lixeira de reciclagem
+loção capilar
 lógica
 loja de departamento
+loli
+lótus
 louco
 Louva a Deus
 lua
 Lua
 lula
+lustre
 lutar
 Luvas
 Luz elétrica
@@ -695,6 +717,7 @@ máscara de cabelo
 Máscara facial
 máscara hidratante
 Massa folhada quadrada
+massagem
 Massagem
 matéria-prima
 Medalha
@@ -706,6 +729,7 @@ Meia-idade
 Meias-liga
 melancia
 Melancia
+Melhor amigo
 melhor da vida
 Mel Longan
 Mentir
@@ -732,8 +756,10 @@ Mito
 Mochila
 modelo
 Modelo
+molar
 Moletom
 molho de mostarda
+molho de ostras
 molho de pimenta
 molho de pimenta doce
 molho de salada
@@ -751,6 +777,8 @@ mostarda amarela
 mostarda em conserva
 Motocicleta
 Mozart
+mp3
+muletas
 mulher forte
 mural
 museu
@@ -795,6 +823,7 @@ Omelete
 Onda de cachorro maluco
 ônibus
 ônibus de turismo
+ônibus escolar
 ópera
 orelhas de porco
 Orgulhoso
@@ -816,10 +845,12 @@ Pães fritos
 palito de dente
 palito de fósforo
 Palma
+panda
 Panela quente
 Pangolim
 Panquecas
 pão
+Pão no vapor
 Paparazzi
 papel
 Papelaria
@@ -847,6 +878,7 @@ pedestre
 Pedra
 pedras
 pega
+Peito de ameixa
 Peixes
 Peixe tropical
 peking
@@ -915,9 +947,11 @@ professor
 protetores de ouvido
 Provas
 Provérbio
+pudim
 pulga
 Pulo alto
 Pulseira
+quadra de basquete
 quadrado
 Quadrilátero
 Quadro Branco
@@ -973,6 +1007,7 @@ sabão para louça
 Saco de legumes
 saco de papel
 Saco térmico
+sal
 Sal
 salada
 salada de frutas
@@ -1021,6 +1056,7 @@ Sopa Gongwan
 Sorvete
 sorvete de chocolate
 Sprite
+Subúrbios
 Suco
 Suco de amoreira
 Suco de goiaba
@@ -1072,6 +1108,7 @@ tímido
 tirar sangue
 toalha de banho
 Tofu de cem páginas
+Tofu de ovo em conserva
 Tofu fedido
 Tokyo
 tomada
@@ -1120,12 +1157,14 @@ vestido de casamento
 via Láctea
 vice-líder do esquadrão
 Viciado em trabalho
+vidro
 Vidro
 Vila
 vinho
 Vinho de arroz
 vinho de sorgo
 vinho tinto
+violino
 vísceras
 Vodka
 voleibol
