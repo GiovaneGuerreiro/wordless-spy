@@ -86,6 +86,7 @@ autoestrada
 auto estudo
 Avião
 Babá
+Babá de confinamento
 Bacia
 badminton
 Bai Yun
@@ -113,6 +114,7 @@ batata
 batata frita
 Batom
 bebida gelada
+Beethoven
 beira-mar
 beisebol
 Beleza
@@ -141,6 +143,7 @@ Bolinho
 Bolinho de Arroz Real
 Bolinhos cozidos no vapor
 bolinhos de camarão
+Bolinhos de ovo
 bolo
 Bolo
 Bolo da lua
@@ -175,6 +178,7 @@ Buffett
 Cabeça de pato Dongshan
 cabelo curto
 Cabelo descolorido
+cabelo do pé
 cabos cristalizados
 Cabra da montanha
 cachalote
@@ -192,6 +196,7 @@ Caju
 Calça casual
 calçado desportivo
 calças de pijama
+Caldo de carne
 Calendário mensal
 Caligrafia
 Camarão
@@ -204,6 +209,7 @@ caminhão de cascalho
 Canção
 Câncer de estômago
 caneta aquarela
+caneta de assinatura
 canetas coloridas
 Cantalupo
 cão de pradaria
@@ -227,6 +233,7 @@ carro
 Carro de boi
 carro de controle remoto
 carro elétrico
+cartão
 cartão de saúde
 cartão Verde
 casamenteiro
@@ -268,6 +275,7 @@ Chamar
 Chá oolong
 Chapéu
 chapéu de balde
+chapéu de palha
 chá preto
 chã preto
 Charme
@@ -352,10 +360,12 @@ Cubo de açúcar
 cubos de gelo
 Culinária
 Cunhada
+cunhado
 cupido
 curandeira
 dama de honra
 dança moderna
+dardos
 Debate
 dedão
 dedo
@@ -374,6 +384,7 @@ detergente
 Deus da riqueza
 diabo
 Dia da Mentira
+diafonia
 diamante
 Diamante
 diário
@@ -406,6 +417,7 @@ Elefante
 eletricidade estática
 elétrico
 Eloquente
+Emaranhado
 emocional
 Empatar
 Empregada
@@ -426,6 +438,7 @@ Escada rolante
 escalada
 Escalar montanhas
 escolta
+Escova de cílios
 Escova de dente
 Escrever diário
 Escritor
@@ -550,8 +563,10 @@ golden retriever
 Golfinho
 Goma de mascar
 Gomas
+Gongmaru
 Gordo
 Gostosa
+gotas de água
 grande aventura
 gravador
 gravata borboleta
@@ -618,6 +633,7 @@ judas
 judo
 Julieta
 kelp
+ketchup
 labrador
 laço de cabelo
 ladrão
@@ -684,6 +700,7 @@ Luz elétrica
 Luzes de neon
 Luz solar
 luz verde
+LV
 Maçã
 macacão
 Macaco
@@ -693,6 +710,7 @@ mãe adotiva
 Mágica
 mágico
 Magnata local
+Mahjong
 Mala de mão
 Malatang
 mamão
@@ -700,6 +718,7 @@ Mamão
 Mandril
 Manga
 Manga curta
+mansão
 mãos dadas
 Mapo Tofu
 máquina de costura
@@ -710,6 +729,7 @@ marcador
 marciano
 maricas
 Marido
+Marinha
 Marshmallow
 Marte
 martelo
@@ -747,6 +767,7 @@ meteorito
 meu
 Meu
 Mickey
+microfone
 Microsoft
 Milhonário
 Mingau branco
@@ -793,6 +814,7 @@ Namorado
 Namorda
 narciso
 Nariz
+navalha
 nave espacial
 néctar
 Neurótico
@@ -866,6 +888,7 @@ partidas
 Passaporte
 passeio
 Passe o cartão
+pasta de dentes
 pasta de feijão vermelho
 Patinho Feio
 Patins em linha
@@ -929,6 +952,7 @@ pomba branca
 ponto de ônibus
 pó pressionado
 Popularidade
+Porche
 porco
 poros
 porta-malas
@@ -941,6 +965,7 @@ Primavera quente
 Primitivo
 princesa
 Princesa
+Principal
 Príncipe
 Privacidade
 professor
@@ -948,6 +973,7 @@ protetores de ouvido
 Provas
 Provérbio
 pudim
+Pular corda
 pulga
 Pulo alto
 Pulseira
@@ -960,6 +986,7 @@ Quieto
 Quioto
 rabanete
 rabanete branco
+radiação
 Rainha
 Raio
 raquete de tênis
@@ -980,6 +1007,7 @@ Remédio para resfriado
 Removedor de maquiagem
 Renascimento
 Repolho
+repolho chinês
 ressurreição
 Retiro
 Revista
@@ -1007,6 +1035,7 @@ sabão para louça
 Saco de legumes
 saco de papel
 Saco térmico
+Sagitário
 sal
 Sal
 salada
@@ -1026,6 +1055,7 @@ sarda
 Satélite
 saudação
 segunda geração rica
+Segurança
 Seleção
 selo
 semáforo
@@ -1048,6 +1078,7 @@ sogra
 soja
 soju
 sol
+soltar pipa
 sopa de feijão vermelho
 sopa de galinha
 sopa de macarrão
@@ -1106,12 +1137,15 @@ Tigre
 tijolo
 tímido
 tirar sangue
+tiroteio
 toalha de banho
+Toalha de banho
 Tofu de cem páginas
 Tofu de ovo em conserva
 Tofu fedido
 Tokyo
 tomada
+tomar remédio
 tomate
 Toque piano para a vaca
 toranja
@@ -1155,6 +1189,7 @@ Verdade
 vespa
 vestido de casamento
 via Láctea
+vice-campeão
 vice-líder do esquadrão
 Viciado em trabalho
 vidro
