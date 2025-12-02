@@ -218,6 +218,7 @@ Capricórnio
 cara bonito
 Cara mau
 caramujos
+Carangueijo
 caranguejo eremita
 Careca
 cargueiro
@@ -345,6 +346,7 @@ coração
 Coral
 Corno
 Corpo de bombeiros
+correios
 correndo
 cortina
 coruja
@@ -370,6 +372,7 @@ Debate
 dedão
 dedo
 Dedo indicador
+dedos do pés
 Delegacia
 demência
 Demissão
@@ -454,6 +457,7 @@ espião
 espinafre
 esponja
 Esposa
+Esqueiro
 Esqueleto
 esquilo
 Esquilo voador
@@ -489,6 +493,7 @@ Farinha
 farinha de arroz
 Farmacia
 fatias de porco
+fava
 Felicidade
 Fénix
 Férias de verão
@@ -500,6 +505,7 @@ Filme
 Filme de ação
 Filme de suspense
 Filme de terror
+finança
 física
 Física
 Fita dupla face
@@ -772,6 +778,7 @@ Microsoft
 Milhonário
 Mingau branco
 Minnie
+mirtilo
 mistério
 Mito
 Mochila
@@ -1079,6 +1086,7 @@ soja
 soju
 sol
 soltar pipa
+Sopa de ameixa azeda
 sopa de feijão vermelho
 sopa de galinha
 sopa de macarrão
