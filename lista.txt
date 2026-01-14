@@ -16,6 +16,7 @@ Adivinhação da sorte
 ADN
 advogado
 AEROPORTO
+Afetuoso
 Ágata
 água
 Água
@@ -109,6 +110,7 @@ Barco de pesca
 barraca
 barriga de porco
 basquetebol
+bastão
 Bata na porta
 batata
 batata frita
@@ -235,6 +237,7 @@ Carro de boi
 carro de controle remoto
 carro elétrico
 cartão
+Cartão de crédito
 cartão de saúde
 cartão Verde
 casamenteiro
@@ -334,12 +337,14 @@ computador
 Computador portátil
 Concerto
 concubina
+condicionador
 constelação
 constipação
 Conta
 Contabilidade
 Convidado
 copo de aço
+copo de vinho
 Copos
 coquetel
 coração
@@ -415,6 +420,7 @@ drama local
 Duende
 Durian
 durião
+Edison
 elástico
 Elefante
 eletricidade estática
@@ -433,6 +439,7 @@ Enfermeira
 Engraçado
 enlatado
 Enterrada
+Entrada
 entrega expressa
 entretenimento
 equipe de voleibol
@@ -509,6 +516,7 @@ finança
 física
 Física
 Fita dupla face
+Fitness
 Flammulina enoki
 Flor de ameixa
 flores de cerejeira
@@ -526,6 +534,7 @@ Foto
 Fotos artísticas
 Fotos do casamento
 fotossíntese
+Fragrância
 frango
 Frango
 frio
@@ -553,6 +562,7 @@ Gato branco
 gato civeta
 Geladeira
 Geléia
+Gelo
 gelo seco
 gema
 Gema
@@ -724,12 +734,14 @@ Mamão
 Mandril
 Manga
 Manga curta
+Manga seca
 mansão
 mãos dadas
 Mapo Tofu
 máquina de costura
 Máquina de lavar
 mar
+maracujá
 marca de nascença
 marcador
 marciano
@@ -740,6 +752,7 @@ Marshmallow
 Marte
 martelo
 máscara de cabelo
+máscara de olho
 Máscara facial
 máscara hidratante
 Massa folhada quadrada
@@ -812,6 +825,7 @@ mural
 museu
 música clássica
 Música final
+Música rock
 músicas folk
 Músicas pop
 nadar
@@ -821,6 +835,7 @@ Namorado
 Namorda
 narciso
 Nariz
+Natal
 navalha
 nave espacial
 néctar
@@ -871,6 +886,7 @@ Padre taoísta
 padrinho
 pães de carne
 Pães fritos
+página da Internet
 palito de dente
 palito de fósforo
 Palma
@@ -912,6 +928,7 @@ Peito de ameixa
 Peixes
 Peixe tropical
 peking
+Pele de bolinho
 pele de carneiro
 Pelos do nariz
 Pena
@@ -950,12 +967,14 @@ pirulito
 piscina
 placa de cobre
 planeta
+Plano
 platina
 plugue
 poeta
 policial
 poluição atmosférica
 pomba branca
+ponta do dedo
 ponto de ônibus
 pó pressionado
 Popularidade
@@ -1016,6 +1035,7 @@ Renascimento
 Repolho
 repolho chinês
 ressurreição
+Retângulo
 Retiro
 Revista
 rim
@@ -1038,6 +1058,7 @@ roupão de banho
 roupas
 sabão
 Sabão
+sabão em pó
 sabão para louça
 Saco de legumes
 saco de papel
@@ -1117,6 +1138,7 @@ Taekwondo
 tahine
 Takoyaki
 Talento
+Tambor de jazz
 tangerina
 tanque
 tanque de água
