@@ -139,6 +139,7 @@ boca
 Bolacha
 bola de cristal
 bola de golfe
+bolha
 Boliche
 bolinho
 Bolinho
@@ -194,6 +195,7 @@ café
 Cair
 Caixa
 caixa de pagamento
+Caixa de sapatos
 Caju
 Calça casual
 calçado desportivo
@@ -214,6 +216,7 @@ caneta aquarela
 caneta de assinatura
 canetas coloridas
 Cantalupo
+Cantor
 cão de pradaria
 capa de chuva
 Capricórnio
@@ -298,6 +301,7 @@ cílios
 cimento
 Cinco raios
 Cinderela
+Cinema
 cintura de balde
 Cisne
 Civil
@@ -508,6 +512,7 @@ Ferrari
 Festival do Barco-Dragão
 ficaram noivos
 Filho não-filial
+filme
 Filme
 Filme de ação
 Filme de suspense
@@ -520,6 +525,7 @@ Fitness
 Flammulina enoki
 Flor de ameixa
 flores de cerejeira
+Flor rosa
 fluxo
 fogão de indução
 fogão elétrico
@@ -535,6 +541,7 @@ Fotos artísticas
 Fotos do casamento
 fotossíntese
 Fragrância
+Framboesa
 frango
 Frango
 frio
@@ -626,8 +633,10 @@ iodo
 iPad
 iPhone
 Ir à aula
+Irmãs
 jaca
 Jade
+janela de tela
 Japonês
 jardim
 Jardim Zoológico
@@ -700,6 +709,7 @@ Liu Bei
 Liuli
 Lixeira de reciclagem
 loção capilar
+locomotiva
 lógica
 loja de departamento
 loli
@@ -811,7 +821,9 @@ monitor
 Monstro
 monstro do lago Ness
 Montanha
+Montanhas tremem
 morsa
+Mosca
 Mosquiteiro
 mostarda
 mostarda amarela
@@ -847,6 +859,7 @@ Ninja
 Nó chinês
 Noite de Natal
 noiva
+Nome
 Noodles fritos
 nota
 Nota fiscal
@@ -904,6 +917,7 @@ Paquera
 paraíso
 paralisado
 Pardal
+Paris
 Parque
 Parque de diversões
 Parque infantil
@@ -945,6 +959,7 @@ Personagem
 Personalidade
 peru
 pesca de camarão
+pés de pato
 Pés de porco
 Pêssego
 Pessoa negra
@@ -1003,6 +1018,7 @@ Pular corda
 pulga
 Pulo alto
 Pulseira
+purê de batata
 quadra de basquete
 quadrado
 Quadrilátero
@@ -1062,6 +1078,7 @@ sabão em pó
 sabão para louça
 Saco de legumes
 saco de papel
+saco de plástico
 Saco térmico
 Sagitário
 sal
@@ -1165,8 +1182,10 @@ tia
 tigela
 Tigre
 tijolo
+time de basquete
 tímido
 tirar sangue
+Tiro de sinuca
 tiroteio
 toalha de banho
 Toalha de banho
@@ -1224,6 +1243,7 @@ vice-líder do esquadrão
 Viciado em trabalho
 vidro
 Vidro
+vila
 Vila
 vinho
 Vinho de arroz
