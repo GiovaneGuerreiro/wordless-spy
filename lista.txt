@@ -1,5 +1,6 @@
 abacaxi
 ábaco
+Abade
 abóbora
 Abraçar
 Academia
@@ -50,6 +51,7 @@ Anitta
 Anjo
 Ano Novo
 Anotações
+Antiguidade
 anunciar
 anzol
 apaixonado
@@ -63,6 +65,7 @@ Arco e Flecha
 ar condicionado
 Área
 área montanhosa
+Areia
 argila de papel
 arquiteto
 arroz cozido
@@ -85,6 +88,7 @@ ator
 Ator
 atordoante
 Atualizado
+Atum
 Autocaravana
 autocrático
 autoestrada
@@ -210,6 +214,7 @@ calçado desportivo
 calças de pijama
 Caldo de carne
 Calendário mensal
+cálice
 Caligrafia
 Camarão
 Camarões fritos
@@ -228,7 +233,9 @@ Cantor
 cão de pradaria
 capa de chuva
 Capricórnio
+caqui
 cara bonito
+caracol de rio
 Cara mau
 caramujos
 Carangueijo
@@ -237,6 +244,7 @@ Careca
 cargueiro
 Carne de porco
 carne de porco assada
+Carne de porco assada
 carne gorda
 Carneiro
 Carne seca
@@ -314,6 +322,7 @@ Cinco raios
 Cinderela
 Cinema
 cintura de balde
+Cirurgia plástica
 Cisne
 Civil
 clara de ovo
@@ -372,6 +381,7 @@ Corno
 Corpo de bombeiros
 correios
 correndo
+Correndo
 cortina
 coruja
 corvo
@@ -383,6 +393,7 @@ Crisântemo
 crise
 Cristal
 Crocodilo
+cromossoma
 croquete
 Cubo de açúcar
 cubos de gelo
@@ -410,6 +421,8 @@ Dentes
 Depósito
 derramar lágrimas
 Descontraído e feliz
+Desculpa
+desenho animado
 Desligar
 deslizamento de terra
 detergente
@@ -469,6 +482,7 @@ Enterrada
 Entrada
 entrega expressa
 entretenimento
+enviar
 equipe de voleibol
 esboço
 Escada rolante
@@ -506,6 +520,7 @@ Estrada de ferro
 Estrangeiro
 Estrela
 Estude no exterior
+ET
 EUA
 EUR
 Eu te amo
@@ -522,6 +537,7 @@ Faca de cozinha
 Falar sem sentido
 Falência
 família real
+Fanta
 fantasia
 fantasma
 Fantasmas prendem pessoas
@@ -531,8 +547,10 @@ farinha de arroz
 Farmacia
 fatias de porco
 fava
+Fazer um exame
 Feijões vermelhos
 Felicidade
+Feliz
 Fénix
 feriado
 Férias de verão
@@ -548,6 +566,7 @@ Filme de terror
 finança
 física
 Física
+fita adesiva
 Fita dupla face
 Fitness
 Flammulina enoki
@@ -593,6 +612,7 @@ garoupa
 garrafa de água quente
 garrafa térmica
 gás lacrimogêneo
+gás natural
 Gastroenterite
 gato
 Gato branco
@@ -624,12 +644,14 @@ Gordo
 Gostosa
 gotas de água
 grande aventura
+grande melão de inverno
 gravador
 gravata borboleta
 Grilo
 Guarda-roupa
 Gucci
 guerreiro
+Guloseimas
 Guqin
 Haltere
 Hamburger
@@ -664,6 +686,7 @@ Informante
 Inglês
 Ingresso de filme
 inimigo
+Inocente
 Insider
 Interesse
 iodo
@@ -836,6 +859,7 @@ Mesa de jantar
 mesa de trabalho
 mestre
 meteorito
+Meteoro
 meu
 Meu
 Mickey
@@ -852,6 +876,7 @@ Mito
 Mochila
 modelo
 Modelo
+Moeda
 molar
 Moletom
 molho de mostarda
@@ -880,6 +905,7 @@ mp3
 muletas
 mulher forte
 mural
+Músculo
 museu
 música clássica
 Música final
@@ -903,6 +929,7 @@ neve
 Neve
 névoa
 Ninja
+Nobel
 Nó chinês
 Noite de Natal
 noiva
@@ -936,6 +963,7 @@ ornitorrinco
 orquídea
 orvalho
 ossos
+Ouro
 ovelha
 OVNI
 Ovo de primavera quente
@@ -949,6 +977,8 @@ padrinho
 pães de carne
 Pães fritos
 página da Internet
+Palácio
+Palácio Real
 palito de dente
 palito de fósforo
 Palma
@@ -994,6 +1024,7 @@ peking
 Peking
 Pele de bolinho
 pele de carneiro
+pelo do Suvaco
 Pelos do nariz
 Pena
 Pensamento
@@ -1009,6 +1040,7 @@ Personagem
 Personalidade
 peru
 pesca de camarão
+Pescoço de frango
 pés de pato
 Pés de porco
 Pêssego
@@ -1024,6 +1056,7 @@ Pimenta
 Pimenta Chaotiana
 Pimenta Sichuan
 Pimenta verde
+Pinho
 pintar
 pintura
 Pintura aquarela
@@ -1031,6 +1064,7 @@ Pintura chinesa
 Pique gelo
 pirulito
 piscina
+pizza
 placa de cobre
 planeta
 Plano
@@ -1049,6 +1083,7 @@ porco
 poros
 porta-malas
 porta-retratos
+Posição vertical
 poupança
 praia
 prêmio
@@ -1083,6 +1118,7 @@ rabanete branco
 radiação
 Rainha
 Raio
+raiva
 raquete de tênis
 Rato
 razão
@@ -1098,6 +1134,7 @@ relíquias culturais
 relógio
 Relógio
 relogio digital
+Relógio mecânico
 Relógios de quartzo
 Remédio para resfriado
 Removedor de maquiagem
@@ -1132,6 +1169,7 @@ sabão
 Sabão
 sabão em pó
 sabão para louça
+Saco de isolamento
 Saco de legumes
 saco de papel
 saco de plástico
@@ -1151,11 +1189,13 @@ salto em distância
 Sandálias
 sangramento nasal
 sapato
+sapatos de caminhada
 sapatos de couro
 Sapatos de couro
 sarda
 Satélite
 saudação
+Saudade
 seca
 segunda geração rica
 Segurança
@@ -1176,6 +1216,7 @@ show
 Signo
 sistema solar
 skate
+Sobrancelha
 Socorro
 Sofá
 sogra
@@ -1269,6 +1310,7 @@ Torre da Água
 Torre Eiffel
 torta
 Torta de gema de ovo
+torta de mirtilo
 torta de morango
 torta de ovo
 touca de natação
@@ -1284,9 +1326,11 @@ trocar
 trovoadas
 tsunami
 Tubarão
+Tubarão branco
 Tuberculose
 tufão
 Tutor
+Udon
 Uísque
 Uva
 vampiro
@@ -1303,6 +1347,7 @@ Vênus
 Verdade
 vespa
 vestido de casamento
+vestir
 via Láctea
 vice-campeão
 vice-líder do esquadrão
@@ -1314,6 +1359,7 @@ Vila
 vinho
 Vinho de arroz
 vinho de sorgo
+vinho estrangeiro
 vinho tinto
 violino
 vísceras
