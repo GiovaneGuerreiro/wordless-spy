@@ -6,6 +6,7 @@ Abraçar
 Academia
 acampamento
 Acampamento
+ácido clorídrico
 ácido sulfúrico
 Açucar
 açúcar branco
@@ -21,6 +22,7 @@ Afetuoso
 Ágata
 água
 Água
+água com gás
 água da torneira
 água do banheiro
 Água fervente
@@ -31,11 +33,14 @@ alarme
 alaúde
 Albert Einstein
 Álcool
+alface
 alho
 Alicate de ponta fina
+Alienígena
 almofada
 alpaca
 amarelinha
+ambulância
 amêijoas
 amêndoa
 Amendoin
@@ -43,6 +48,8 @@ americano
 amigo
 Amor irmã-irmão
 andando
+Andar
+anéis de cebola
 Ang Gu Kueh
 Angu Kueh
 animal
@@ -67,10 +74,12 @@ ar condicionado
 área montanhosa
 Areia
 argila de papel
+Áries
 arquiteto
 arroz cozido
 Arroz de óleo
 arroz de pato
+arroz frito
 Arte
 artista
 árvore de maçã
@@ -125,9 +134,12 @@ basquetebol
 bastão
 Bata na porta
 batata
+batata doce
 batata frita
 Batom
+Bebê
 bebida gelada
+Bebidas
 Beethoven
 beijo
 beira-mar
@@ -135,6 +147,7 @@ beisebol
 Beleza
 Beringela
 Berinjela
+Biblioteca
 Bicicleta
 bife
 Bife de frango
@@ -149,6 +162,7 @@ Boate
 Bobba
 Bob Esponja
 boca
+boi
 Bolacha
 bola de cristal
 bola de golfe
@@ -171,6 +185,7 @@ bolsa
 Bolsa de couro
 Bolsa de estudos
 Bomba de fumaça
+Bombeiros
 Bom Deus
 Bom homem
 boné
@@ -191,8 +206,10 @@ Broadway
 brotos de feijão
 Bucha
 Buda
+Búfalo
 Buffett
 Cabeça de pato Dongshan
+Cabelo
 cabelo curto
 Cabelo descolorido
 cabelo do pé
@@ -200,12 +217,14 @@ cabos cristalizados
 Cabra da montanha
 cachalote
 cachecol de seda
+Cachorro
 cachorro-quente
 cachorro solteiro
 Cadeira
 cadeira dobrável
 caderno
 café
+café verde
 Cair
 Caixa
 caixa de pagamento
@@ -218,6 +237,7 @@ Caldo de carne
 Calendário mensal
 cálice
 Caligrafia
+Calma
 Camarão
 Camarões fritos
 camelo
@@ -225,12 +245,15 @@ Câmera
 Câmera de beleza
 Caminhão
 caminhão de cascalho
+camisa
 Canção
+Câncer
 Câncer de estômago
 caneta aquarela
 caneta de assinatura
 canetas coloridas
 Cantalupo
+Cantar
 Cantor
 cão de pradaria
 capa de chuva
@@ -243,6 +266,7 @@ caramujos
 Carangueijo
 Caranguejo
 caranguejo eremita
+Caranguejo peludo
 Careca
 cargueiro
 Carne de porco
@@ -310,12 +334,14 @@ chave de carro
 Chave de fenda
 chave do carro
 chave inglesa
+Chá verde
 chefe
 cheiro corporal
 cheongsam
 Chicote
 Chimpanzés
 Chocolate Branco
+Chocolate preto
 Cholocate preto
 Churrasquinho
 chuva
@@ -325,6 +351,7 @@ Cinco raios
 Cinderela
 Cinema
 cintura de balde
+Cinza
 Cirurgia plástica
 Cisne
 Civil
@@ -339,6 +366,7 @@ cobertor elétrico
 cobra
 Coca Cola
 cocô de pássaro
+cocô de pássaro,
 Coentro
 Cogumelo
 Cola
@@ -371,6 +399,7 @@ constelação
 constipação
 Conta
 Contabilidade
+Conversível
 Convidado
 copo de aço
 copo de vinho
@@ -380,6 +409,7 @@ copo térmico
 coquetel
 coração
 Coral
+Coreano
 Corno
 Corpo de bombeiros
 correios
@@ -389,7 +419,9 @@ cortina
 coruja
 corvo
 Cosmético
+Cravo
 cravos
+Creme
 creme para mãos
 creme para os olhos
 Crisântemo
@@ -414,6 +446,7 @@ Debate
 dedão
 dedo
 Dedo indicador
+Dedos do pé
 dedos do pés
 Delegacia
 demência
@@ -423,13 +456,16 @@ Dente de leite
 Dentes
 Depósito
 derramar lágrimas
+desconfortável
 Descontraído e feliz
 Desculpa
 desenho animado
+deserto
 Desligar
 deslizamento de terra
 detergente
 detergente para roupa
+deusa
 Deus da riqueza
 diabo
 Dia da Mentira
@@ -437,6 +473,7 @@ diafonia
 diamante
 Diamante
 diário
+diário semanal
 Diarréia
 dica
 Dinastia Ming
@@ -446,12 +483,15 @@ Dinastia Yuan
 Dinheiro
 Dinossauro
 Diretor
+discurso
 disfarçado
 Distraído
 divórcio
 doença da princesa
 Dorayaki
 Dor de estômago
+Dor de garganta
+dormir
 Douhua
 Doutor
 Doutorando
@@ -460,10 +500,12 @@ drama
 Drama coreano
 Drama japonês
 drama local
+ dromedário
 Duende
 Durian
 durião
 Edison
+Egito
 elástico
 Elefante
 eletricidade estática
@@ -486,13 +528,16 @@ Enterrada
 Entrada
 entrega expressa
 entretenimento
+Envelope
 enviar
 equipe de voleibol
 esboço
 Escada rolante
+Escala
 escalada
 Escalar montanhas
 escolta
+Escorpião
 Escova de cílios
 Escova de dente
 Escrever diário
@@ -509,6 +554,7 @@ Esperto
 espião
 espinafre
 esponja
+Esportes
 Esposa
 Esqueiro
 Esqueleto
@@ -538,6 +584,7 @@ Extraterrestre
 Fã base
 faca
 Faca de cozinha
+Fada
 Falar sem sentido
 Falência
 família real
@@ -553,6 +600,7 @@ fatias de porco
 fava
 Fazer um exame
 Feijões vermelhos
+Feiticeira
 Felicidade
 Feliz
 Fénix
@@ -561,6 +609,7 @@ Férias de verão
 Ferrari
 Festival do Barco-Dragão
 ficaram noivos
+fígado
 Filho não-filial
 filme
 Filme
@@ -574,10 +623,12 @@ fita adesiva
 Fita dupla face
 Fitness
 Flammulina enoki
+flauta
 Flor de ameixa
 flores de cerejeira
 Flor rosa
 fluxo
+foca
 fogão de indução
 fogão elétrico
 Foguete
@@ -588,11 +639,14 @@ força do ar
 forno
 Forte Submarino
 Foto
+Fotografia
+Fotos
 Fotos artísticas
 Fotos do casamento
 fotossíntese
 Fragrância
 Framboesa
+Francês
 frango
 Frango
 frio
@@ -606,6 +660,7 @@ Futebol
 futuros
 gafanhoto
 Galho
+Galinha
 gamão
 Gangster
 Ganoderma lucidum
@@ -630,11 +685,13 @@ gelo seco
 gema
 Gema
 gêmeos
+gengibre
 Gênio
 geografia
 gerente
 ginástica
 Giz
+Giz pastel
 Glaucoma
 globo ocular
 goiaba
@@ -653,6 +710,7 @@ grande melão de inverno
 gravador
 gravata borboleta
 Grilo
+guadra de basquete
 Guarda-roupa
 Gucci
 guerreiro
@@ -674,6 +732,7 @@ Hipopótamo
 História
 histórias em quadrinhos
 Hollywood
+homem forte
 homem gordo
 Homem macho
 Hospital
@@ -695,6 +754,7 @@ Inocente
 Insider
 Interesse
 iodo
+iogurte
 iPad
 iPhone
 Ir à aula
@@ -703,6 +763,7 @@ isopor
 jaca
 Jade
 janela de tela
+Japão
 Japonês
 jardim
 Jardim Zoológico
@@ -726,6 +787,7 @@ Julieta
 Karatê
 kelp
 ketchup
+Kyoto
 labrador
 laço de cabelo
 ladrão
@@ -738,10 +800,13 @@ Lancha
 lanche noturno
 lanterna
 lápis
+laranja
 lar de idosos
 lata de lixo
 Lavagem Corporal
 lava-louças
+Leão
+leão marinho
 legal
 Legumes escaldados
 leite
@@ -749,6 +814,7 @@ leite de cabra
 leite de maçã
 leite de mamão
 leite de morango
+Leite de soja
 Leite de vaca
 leite fresco
 lenço
@@ -770,6 +836,8 @@ Limão
 limão melão de inverno
 limonada de mel
 limpador de cozinha
+Linda
+Linguiça
 Liquor
 lírio
 Liu Bang
@@ -800,6 +868,7 @@ macacão
 Macaco
 Macarons
 Macarrão frio
+macarrão instantâneo
 machado
 mãe adotiva
 Mágica
@@ -832,12 +901,14 @@ Marshmallow
 Marte
 martelo
 máscara de cabelo
+máscara de cílios
 máscara de olho
 Máscara facial
 máscara hidratante
 Massa folhada quadrada
 massagem
 Massagem
+Matemática
 matéria-prima
 Medalha
 medalha de ouro
@@ -859,6 +930,7 @@ mercado molhado
 mercado noturno
 Mercúrio
 mergulhando
+mergulhar
 mergulho com snorkel
 Mesa
 Mesa de jantar
@@ -874,6 +946,7 @@ microfone
 Micro-ondas
 Microsoft
 Milhonário
+Militar
 Mingau branco
 minhoca
 Minnie
@@ -952,8 +1025,10 @@ obesidade
 obsceno
 O céu está desmoronando
 óculos de natação
+Oculos de sol
 Okonomiyaki
 óleo de amendoim
+óleo de cozinha
 óleo de gergelim
 óleo de limpeza
 óleo picante
@@ -971,6 +1046,7 @@ orquídea
 orvalho
 ossos
 Ouro
+Outono
 oval
 ovelha
 OVNI
@@ -985,8 +1061,10 @@ padrinho
 pães de carne
 Pães fritos
 página da Internet
+Pague a conta
 Palácio
 Palácio Real
+Palhaço
 palito de dente
 palito de fósforo
 Palma
@@ -1027,6 +1105,8 @@ Pedra
 pedras
 pega
 Peito de ameixa
+Peito de frango
+Peixe
 Peixes
 Peixe tropical
 peking
@@ -1042,6 +1122,7 @@ peônia
 pepino
 Pepsi
 Pequim
+Pêra
 perder peso
 Perfume
 Pérola
@@ -1066,12 +1147,15 @@ Pimenta Chaotiana
 Pimenta Sichuan
 Pimenta verde
 Pinho
+Pinóquio
 pintar
 pintura
 Pintura aquarela
 Pintura chinesa
 Pique gelo
+Piquenique
 pirulito
+Piscar
 piscina
 pizza
 placa de cobre
@@ -1082,8 +1166,10 @@ plugue
 poeta
 policial
 poluição atmosférica
+Polvo
 pomba branca
 ponta do dedo
+ponta do nariz
 ponto de ônibus
 pó pressionado
 Popularidade
@@ -1095,11 +1181,16 @@ porta-retratos
 Posição vertical
 poupança
 praia
+Prata
+pré-escola
 prêmio
+Presente
 Presidente
+presunto
 Primavera
 Primavera quente
 Primitivo
+Primo
 princesa
 Princesa
 Principal
@@ -1128,6 +1219,7 @@ Quioto
 rabanete
 rabanete branco
 radiação
+Rádio
 Rainha
 Raio
 raiva
@@ -1146,6 +1238,7 @@ relíquias culturais
 relógio
 Relógio
 relogio digital
+Relógio inteligente
 Relógio mecânico
 Relógios de quartzo
 Remédio para resfriado
@@ -1187,6 +1280,7 @@ saco de papel
 saco de plástico
 Saco térmico
 Sagitário
+saia plissada
 sal
 Sal
 salada
@@ -1204,6 +1298,7 @@ sapato
 sapatos de caminhada
 sapatos de couro
 Sapatos de couro
+Sapo
 sarda
 Satélite
 saudação
@@ -1241,12 +1336,14 @@ sopa de feijão vermelho
 sopa de galinha
 sopa de macarrão
 sopa de peixe
+sopa de tomate
 Sopa Gongwan
 Sorvete
 sorvete de chocolate
 Sprite
 Subúrbios
 Suco
+Suco de ameixa
 Suco de amoreira
 Suco de goiaba
 suco de laranja
@@ -1289,6 +1386,7 @@ tenda
 tênis
 Tênis
 tênis de corrida
+tênis de mesa
 terminar
 Terra
 terremoto
@@ -1345,6 +1443,9 @@ tufão
 Tutor
 Udon
 Uísque
+Unhas
+unhas da mão
+unhas do pé
 Uva
 vampiro
 vangloriar-se
@@ -1370,11 +1471,13 @@ Vidro
 vila
 Vila
 vinho
+vinho branco
 Vinho de arroz
 vinho de sorgo
 vinho estrangeiro
 vinho tinto
 violino
+Virgem
 vísceras
 Vodka
 voleibol
@@ -1387,6 +1490,7 @@ Xícara
 xícara de café
 Yahoo
 Yangtsé
+Yoga
 Yuelao
 Zhang Huimei
 zíper
