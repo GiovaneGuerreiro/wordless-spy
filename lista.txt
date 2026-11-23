@@ -111,6 +111,7 @@ Baleia
 banana
 banana boat
 banco
+Bandidos
 Banha
 banheira
 Bar
@@ -179,6 +180,7 @@ bonito
 Bonito
 Borboleta
 Botão
+Bracelete
 Branca de Neve
 branco
 brilho
@@ -239,6 +241,7 @@ caracol de rio
 Cara mau
 caramujos
 Carangueijo
+Caranguejo
 caranguejo eremita
 Careca
 cargueiro
@@ -426,6 +429,7 @@ desenho animado
 Desligar
 deslizamento de terra
 detergente
+detergente para roupa
 Deus da riqueza
 diabo
 Dia da Mentira
@@ -618,6 +622,7 @@ gato
 Gato branco
 gato civeta
 gato preto
+Gato sortudo
 Geladeira
 Geléia
 Gelo
@@ -853,12 +858,14 @@ mercado ao entardecer
 mercado molhado
 mercado noturno
 Mercúrio
+mergulhando
 mergulho com snorkel
 Mesa
 Mesa de jantar
 mesa de trabalho
 mestre
 meteorito
+meteoro
 Meteoro
 meu
 Meu
@@ -964,6 +971,7 @@ orquídea
 orvalho
 ossos
 Ouro
+oval
 ovelha
 OVNI
 Ovo de primavera quente
@@ -985,6 +993,7 @@ Palma
 panda
 Panela quente
 Pangolim
+Panqueca
 Panquecas
 pão
 Pão no vapor
@@ -1097,14 +1106,17 @@ Principal
 Príncipe
 Privacidade
 professor
+Prosa
 protetores de ouvido
 Provas
+Provérbi&#8203;o
 Provérbio
 pudim
 Pular corda
 pulga
 Pulo alto
 Pulseira
+pupilas dilatadas
 purê de batata
 quadra de basquete
 quadrado
@@ -1282,6 +1294,7 @@ Terra
 terremoto
 território
 Tesoura
+testemunha
 teto
 tia
 tigela
